@@ -37,6 +37,10 @@ a {
   padding-top: 200px;
 }
 
+.sidetext > a {
+  padding-top: 10px;
+}
+
 
 #sidebar {
   position: fixed;
