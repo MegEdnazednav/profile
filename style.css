@@ -57,6 +57,19 @@ a {
   }
 }
 
+#sidebar {
+  position: fixed;
+  width: 100px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #F48B7F;
+}
+
+#page-content {
+  margin-left: 100px;
+}
+
 .card {
   background-color: #F9B5AC;
   padding: 20px 30px;
