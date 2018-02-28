@@ -32,6 +32,20 @@ a {
   color: #686665;
 }
 
+
+#sidebar {
+  position: fixed;
+  width: 100px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #F48B7F;
+}
+
+#page-content {
+  margin-left: 100px;
+}
+
 .container {
   width: 600px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
@@ -57,18 +71,6 @@ a {
   }
 }
 
-#sidebar {
-  position: fixed;
-  width: 100px;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  background-color: #F48B7F;
-}
-
-#page-content {
-  margin-left: 100px;
-}
 
 .card {
   background-color: #F9B5AC;
