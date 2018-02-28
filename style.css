@@ -4,6 +4,7 @@ body {
     background-attachment: fixed;
     font-family: 'Comfortaa', cursive;
     color: #4f4c4b;
+    opacity: 0.8;
 }
 
 a {
